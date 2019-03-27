@@ -1,3 +1,5 @@
+[Communication Library]
+
 P2P example: https://medium.com/@carloslfu/make-a-p2p-connection-in-10-minutes-57d9559fd1c
 - node.js
 - no servers
@@ -8,11 +10,36 @@ PeerJS: https://peerjs.com/
 - needs a server for establishing connections (can be hosted on repl.it or something)
 - somewhat easier security
 
+Sockets: https://socket.io/
+- node.js 
+- binary streaming
+- real-time analytics
+- p2p and client-server support
+
+[Frameworks]
+
+Electron: https://electronjs.org/
+- chromium [libchromiumcontent]
+- html,css,js
+- no native components
+
+NW.js: https://nwjs.io/
+- HTML5, CSS3, WebGL , JS
+- JavaScript Source Protection
+- no native components
+
+Proton Native: https://proton-native.js.org/#/
+
+- React , JS
+- native components
+- no styling
+
+[Examples]
+
 Working app example: http://moose-team.github.io/friends/
 - node.js
 - no server needed, "bots" can be used to seed the channel when noone is online
 - it's missing security/encryption
 - can also work via bluetooth
 
-Sockets: https://socket.io/blog/socket-io-p2p/
-- ???
+
