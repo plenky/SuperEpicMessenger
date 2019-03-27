@@ -1,0 +1,18 @@
+P2P example: https://medium.com/@carloslfu/make-a-p2p-connection-in-10-minutes-57d9559fd1c
+- node.js
+- no servers
+- security is hard...
+
+PeerJS: https://peerjs.com/
+- node.js
+- needs a server for establishing connections (can be hosted on repl.it or something)
+- somewhat easier security
+
+Working app example: http://moose-team.github.io/friends/
+- node.js
+- no server needed, "bots" can be used to seed the channel when noone is online
+- it's missing security/encryption
+- can also work via bluetooth
+
+Sockets: https://socket.io/blog/socket-io-p2p/
+- ???
